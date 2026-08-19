@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Ansh Sharma 👋
 
-<!--
-**ansh-sharma-dev/ansh-sharma-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Frontend Developer | JavaScript | React
 
-Here are some ideas to get you started:
+I'm a BCA student passionate about web development and software engineering.  
+I enjoy building practical projects and improving my development skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Currently pursuing BCA
+- 💻 Focused on Frontend Development
+- 🌱 Currently learning React, APIs & Full-Stack Development
+- 🧠 Practicing Data Structures & Algorithms
+- 🔧 Learning Git & GitHub
+- 📍 Noida, India
+
+## 🛠️ Skills
+
+**Frontend:**  
+HTML • CSS • JavaScript • React
+
+**Tools:**  
+Git • GitHub • VS Code
+
+**Currently Learning:**  
+APIs • Backend Development • Full-Stack Development
+
+## 📌 Projects
+
+### 🛒 FlipBasket
+Responsive e-commerce website built with HTML, CSS and JavaScript.
+
+### 🌤️ Weather App
+React weather application using the Open-Meteo API.
+
+### 💰 Expense Tracker
+JavaScript project for adding, managing and tracking expenses.
+
+## 🎯 Current Goal
+
+To become a strong Software Engineer by building real-world projects, improving problem-solving skills, and continuously learning.
+
+---
+
+⭐ Thanks for visiting my profile!
