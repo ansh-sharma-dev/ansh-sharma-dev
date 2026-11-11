@@ -1,5 +1,6 @@
 # Hi, I'm Ansh Sharma 👋
-
+![portfolio website
+ Project Preview](./portfolio.png)
 ### BCA Student | Frontend Developer | JavaScript | React
 
 I'm a BCA student passionate about web development and software engineering.  
